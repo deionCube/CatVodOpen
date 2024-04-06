@@ -8,7 +8,7 @@
 */
 import {_} from "../../lib/cat.js";
 import fs from "node:fs";
-import qs from "qs";
+
 import axios, {toFormData} from "axios";
 import https from "https";
 import crypto from "crypto";
